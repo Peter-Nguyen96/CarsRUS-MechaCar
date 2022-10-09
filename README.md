@@ -18,6 +18,7 @@ The T-test of the summary suspension coil data has a p-value greater than our si
 Since MechaCar sounds cool and is therefore imagined as a high performance vehicle, we are going to be measuring lap times to determine the performance of the MechaCar against the competition.  In order to measure the performance of the MechaCar, we are going to measure lap times around the Nurburgring test track in Germany against similarly priced high performance sports cars with a precision of one one thousandths of a second. The start time will begin when the tip of the front bumper crosses the start line, and end when the tip of the rear bumper crosses the finish line. 20 consecutive laps will be performed by each car with the same driver and the results analyzed.  This test will examine the sum of several performance features at once including power, handling, breaking and endurance.
 
 H0: The average lap time of the MechaCar is statistically not faster around the Nurburgring test track than other cars in its price catagory.
+
 HA: The average lap time of the MechaCar is statistically different (higher/lower) around the Nurburgring test track than other cars in its price catagory.
 
 Information we will need are going to be: The Nurburgring lap times of each car in each run, and the retail cost of each vehicle.
